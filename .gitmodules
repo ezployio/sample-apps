@@ -1,0 +1,3 @@
+[submodule "rails-5.1.2"]
+	path = rails-5.1.2
+	url = git@github.com:ezployio/sample-rails-5.1.2.git
