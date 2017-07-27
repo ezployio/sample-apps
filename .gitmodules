@@ -16,3 +16,6 @@
 [submodule "react-scripts-app"]
 	path = react-scripts-app
 	url = git@github.com:ezployio/sample-react-node.git
+[submodule "webpack-react-sass"]
+	path = webpack-react-sass
+	url = git@github.com:ezployio/webpack-boilerplate.git
