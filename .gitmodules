@@ -7,3 +7,12 @@
 [submodule "webpack-express"]
 	path = webpack-express
 	url = git@github.com:ezployio/webpack-express-boilerplate.git
+[submodule "webpack-1.12-express"]
+	path = webpack-1.12-express
+	url = git@github.com:ezployio/webpack-express-boilerplate.git
+[submodule "vue-webpack"]
+	path = vue-webpack
+	url = git@github.com:ezployio/sample-vue-webpack-app.git
+[submodule "react-scripts-app"]
+	path = react-scripts-app
+	url = git@github.com:ezployio/sample-react-node.git
