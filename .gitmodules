@@ -4,3 +4,6 @@
 [submodule "laravel-5.4"]
 	path = laravel-5.4
 	url = git@github.com:ezployio/sample-laravel-5.4.git
+[submodule "webpack-express"]
+	path = webpack-express
+	url = git@github.com:ezployio/webpack-express-boilerplate.git
