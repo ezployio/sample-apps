@@ -19,3 +19,9 @@
 [submodule "webpack-react-sass"]
 	path = webpack-react-sass
 	url = git@github.com:ezployio/webpack-boilerplate.git
+[submodule "webkit2-react"]
+	path = webkit2-react
+	url = git@github.com:ezployio/webkit2-react.git
+[submodule "webpack-stylus"]
+	path = webpack-stylus
+	url = git@github.com:ezployio/webpack-example-stylus.git
