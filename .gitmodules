@@ -22,3 +22,6 @@
 [submodule "webpack-stylus"]
 	path = webpack-stylus
 	url = git@github.com:ezployio/webpack-example-stylus.git
+[submodule "webpack2-react"]
+	path = webpack2-react
+	url = git@github.com:ezployio/webpack2-react.git
