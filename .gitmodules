@@ -25,3 +25,15 @@
 [submodule "webpack2-react"]
 	path = webpack2-react
 	url = git@github.com:ezployio/webpack2-react.git
+[submodule "static-scss-es6"]
+	path = static-scss-es6
+	url = git@github.com:ezployio/static-scss-es6.git
+[submodule "static-less-website"]
+	path = static-less-website
+	url = git@github.com:ezployio/static-less-website.git
+[submodule "stylus-static-website"]
+	path = stylus-static-website
+	url = git@github.com:ezployio/stylus-static-website.git
+[submodule "static-sass-website"]
+	path = static-sass-website
+	url = git@github.com:ezployio/static-sass-website.git
