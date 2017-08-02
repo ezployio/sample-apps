@@ -37,3 +37,6 @@
 [submodule "static-sass-website"]
 	path = static-sass-website
 	url = git@github.com:ezployio/static-sass-website.git
+[submodule "koa2-pm2"]
+	path = koa2-pm2
+	url = git@github.com:ezployio/koa2-pm2.git
