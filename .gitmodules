@@ -40,3 +40,15 @@
 [submodule "koa2-pm2"]
 	path = koa2-pm2
 	url = git@github.com:ezployio/koa2-pm2.git
+[submodule "laravel-docker"]
+	path = laravel-docker
+	url = git@github.com:ezployio/laravel-boilerplate.git
+[submodule "django-1.10-app"]
+	path = django-1.10-app
+	url = git@github.com:ezployio/django-1.10-app.git
+[submodule "django-1.8.2-app"]
+	path = django-1.8.2-app
+	url = git@github.com:ezployio/django-1.8.2-app.git
+[submodule "django-app-outdated"]
+	path = django-app-outdated
+	url = git@github.com:ezployio/django-app-outdated.git
