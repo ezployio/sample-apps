@@ -52,3 +52,9 @@
 [submodule "django-app-outdated"]
 	path = django-app-outdated
 	url = git@github.com:ezployio/django-app-outdated.git
+[submodule "spoonjs-sample-app"]
+	path = spoonjs-sample-app
+	url = git@github.com:ezployio/spoonjs-sample-app.git
+[submodule "grunt-boilerplate"]
+	path = grunt-boilerplate
+	url = git@github.com:ezployio/grunt-boilerplate.git
