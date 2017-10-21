@@ -58,3 +58,9 @@
 [submodule "grunt-boilerplate"]
 	path = grunt-boilerplate
 	url = git@github.com:ezployio/grunt-boilerplate.git
+[submodule "wordpress-composer"]
+	path = wordpress-composer
+	url = git@github.com:ezployio/wordpress-composer.git
+[submodule "wordpress-app"]
+	path = wordpress-app
+	url = git@github.com:ezployio/wordpress-app.git
